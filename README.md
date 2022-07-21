@@ -15,9 +15,9 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : JavaScript, TypeScript, HTML/HTML5, CSS/SCSS/SASS
+- 💽 <b>Programming Languages</b> : JavaScript, TypeScript, Python, HTML/HTML5, CSS/SCSS/SASS
 - 🗃 <b>Frontend Frameworks</b> : React, Redux, Next.js, Vue.js, AngularJS, React Native
-- 🗃 <b>Backend Frameworks</b> : Node.js, Express.js, PHP, Laravel, Wordpress
+- 🗃 <b>Backend Frameworks</b> : Node.js, Express.js, PHP, Laravel, Wordpress, Django, Flask
 - 🗃 <b>UI Library</b> : Tailwind CSS, Ant Design, Material-UI
 - ⏲ <b>Animation</b> : GreenSock(GSAP), CSS Animation, React-motion
 - 📺 <b>3D Work</b> : OpenGL, WebGL, Three.js
